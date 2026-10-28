@@ -13,9 +13,7 @@
   <img src="https://img.shields.io/badge/Virginia%20Tech-Cybersecurity%20'28-861F41?style=for-the-badge&logo=virginiatech&logoColor=white" alt="Virginia Tech" />
   <img src="https://img.shields.io/badge/Blacksburg%2C%20VA-E87722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Blacksburg, VA" />
   <a href="mailto:seanp17@vt.edu"><img src="https://img.shields.io/badge/Email-seanp17%40vt.edu-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- LinkedIn: replace YOUR-LINKEDIN and uncomment
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/seanpierce17"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---

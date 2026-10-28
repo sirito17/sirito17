@@ -20,7 +20,7 @@
 
 ## 👋 About me
 
-I'm a cybersecurity student at **Virginia Tech (Class of 2028)** and a member of the **VT Corps of Cadets**. Most of my building happens at the intersection of **security engineering, automation, and AI agents** — lately, autonomous trading systems where one bad assumption costs real money.
+I'm a cybersecurity student at **Virginia Tech (Class of 2028)** and a member of **CyberVT** and the **Virginia Tech Corps of Cadets**. Most of my building happens at the intersection of **security engineering, automation, and AI agents** — lately, autonomous trading systems.
 
 - 🛡️ I design for failure first: kill switches, circuit breakers, idempotent orders, audit logs, and external watchdogs
 - 🧪 I don't trust a strategy until it survives realistic costs, out-of-sample data, and a power analysis

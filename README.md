@@ -113,7 +113,6 @@ New projects get a card here and a write-up in [`projects/`](projects/). All sou
   <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Alpaca%20API-FFD700?style=flat-square&logoColor=black" alt="Alpaca" />
   <img src="https://img.shields.io/badge/TradingView%20%2F%20Pine%20Script-131722?style=flat-square&logo=tradingview&logoColor=white" alt="TradingView" />
-  <img src="https://img.shields.io/badge/Freqtrade-1E88E5?style=flat-square" alt="Freqtrade" />
   <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   <img src="https://img.shields.io/badge/SEC%20EDGAR-003366?style=flat-square" alt="SEC EDGAR" />
   <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />

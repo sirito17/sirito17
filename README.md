@@ -133,12 +133,16 @@ New projects get a card here and a write-up in [`projects/`](projects/). All sou
 
 ---
 
-## 📊 GitHub activity
+## 📊 By the numbers
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sirito17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="GitHub streak" />
-</p>
-
+<table align="center">
+<tr>
+<td align="center" width="25%"><h2>1,100+</h2>automated tests</td>
+<td align="center" width="25%"><h2>1,190+</h2>commits &mdash; ~400 by hand, the rest by the agents and CI I built</td>
+<td align="center" width="25%"><h2>4</h2>trading systems built: stocks, futures, research, crypto</td>
+<td align="center" width="25%"><h2>5</h2>scheduled AI agent runs every market day</td>
+</tr>
+</table>
 
 ---
 

@@ -137,10 +137,10 @@ New projects get a card here and a write-up in [`projects/`](projects/). All sou
 
 <table align="center">
 <tr>
-<td align="center" width="25%"><h2>1,100+</h2>automated tests</td>
-<td align="center" width="25%"><h2>1,190+</h2>commits &mdash; ~400 by hand, the rest by the agents and CI I built</td>
-<td align="center" width="25%"><h2>4</h2>trading systems built: stocks, futures, research, crypto</td>
-<td align="center" width="25%"><h2>5</h2>scheduled AI agent runs every market day</td>
+<td align="center" valign="top" width="25%"><h2>1,100+</h2>automated tests</td>
+<td align="center" valign="top" width="25%"><h2>1,190+</h2>commits<br/><sub>~400 by hand, the rest by my agents &amp; CI</sub></td>
+<td align="center" valign="top" width="25%"><h2>4</h2>trading systems built</td>
+<td align="center" valign="top" width="25%"><h2>5</h2>AI agent runs per market day</td>
 </tr>
 </table>
 

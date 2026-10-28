@@ -143,7 +143,7 @@ New projects get a card here and a write-up in [`projects/`](projects/). All sou
 ---
 
 <p align="center">
-  <i>Open to internships in security engineering, software engineering, and fintech.</i>
+  <i>Open to internships in cybersecurity, with a focus on offensive security, threat hunting, digital forensics, and incident response.</i>
 </p>
 
 <p align="center">

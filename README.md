@@ -139,9 +139,6 @@ New projects get a card here and a write-up in [`projects/`](projects/). All sou
   <img src="https://streak-stats.demolab.com?user=sirito17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&v=2" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirito17&theme=tokyonight" alt="Contribution graph" width="100%" />
-</p>
 
 ---
 
